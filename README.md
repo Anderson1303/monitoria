@@ -1,2 +1,0 @@
-# monitoria
-Exercicios
